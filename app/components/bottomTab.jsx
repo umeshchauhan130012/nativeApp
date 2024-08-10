@@ -5,7 +5,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import TopReels from './topReels';
 import { TopNews } from './topNews';
-import TabViewExample from './tabView';
+import TabViewExample from './topTabView';
 
   const webstoryList = [
     {

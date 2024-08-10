@@ -1,0 +1,441 @@
+{
+    "aboutPage": {
+      "id": 1,
+      "title": "About Us",
+      "paragraphs": [`
+          <h3>About Us - The India Daily</h3>
+          <p>The India Daily Live is a Hindi-language national news Channel, headquartered in Noida, Uttar Pradesh, India. 'The India Daily' literally means people's emotion and is directed by the idea of bringing in the news in its truest form and reporting the positive and purposeful news stories that we need today. Our national daily covers sports, entertainment, local and general interest news with India's sharpest political stories, hard-hitting investigative pieces and global opinion and editorial pages. Whereas our website provides for credible news for millions of people nationwide, the site provides real time news on politics, business, sports, entertainment, technology, lifestyle, and world, in text, images and videos.</p>
+          <h3>Our Story</h3>
+          <p>Founded in 2023, The India Daily Live is one of India’s fastest growing Hindi news Channel. With a large daily viewership, making it to one of the Top News Channel in India. The geography of The India Daily news covers all over India. The India Daily live runs 24-hour TV and Digital channel with most prominent team of Anchors, reporters and editorial team. Within the mainline TV Journalism and the website, we focus on every aspect of society which helps to achieve our Tagline.</p>
+          <h3>Our Tagline/Moto</h3>
+          <p><i>‘Rashtra Ko Samarpit’ that translates dedicated to Nation</i>
+          </p><h3>Our Culture</h3>
+          <p>Fair Stories, Ethical Reporting, Diversity, Equality, and Inclusion is our commitment to our colleagues and our customers. Creating an environment that celebrates and supports diversity is what joins us together to foster creativity and innovation. Across every division, The India Daily employees are connected by shared values of innovation, storytelling, creativity, vision, social good and partnership.</p>
+          <h3>Our Work</h3>
+          <p>We work with clients across various industries and craft result oriented native content strategies to help accomplish their desired campaign goals. Our flair for story-telling goes beyond messaging and touches upon the purpose of the brand. We think, create, and drive our partners’ stories to the most relevant audiences. Our reach help advertisers reach the most relevant audiences across platforms be it digital or on-ground.</p>
+          <h3>Mission and Vision</h3>
+          <p>We are fierce about delivering value where value = price x targeting. Our media mavericks use a combination of state of the industry research tools, third party survey, and feet on the street experience to provide multi layered media plans that allow our clients to truly target their message to the right audience at the right time. Our flexible and nimble approach offers our clients the ability to mix strategies, and customise as per the objective.</p>
+      `]
+     },
+     "privacyPage": {
+      "id": 2,
+      "title": "Privacy & Policy",
+      "paragraphs": [`
+          <h3>Privacy Policy for The India Daily</h3>
+          <p>This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by Veecon Media and Broadcasting Pvt Ltd and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the "Company"), which operates various websites and other services including but not limited to delivery of information and content via any mobile or internet-connected device or otherwise (collectively the "Services"). This privacy policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.</p>
+          <p>As we update, improve and expand the Services, this policy may change, so please refer back to it periodically. By accessing the Company website or this Application or otherwise using the Services, you consent to the collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.</p>
+          <p>The Company respects the privacy of the users of the Services and is committed to reasonably protect it in all respects. The information about the user as collected by the Company is: </p>
+          <ol type="A">
+          <li>information supplied by users and</li>
+          <li>information automatically tracked while navigation</li>
+          <li>information collected from any other source (collectively referred to as Information).</li>
+          </ol>
+          <h3>1. INFORMATION RECEIVED, COLLECTED AND STORED BY THE COMPANY</h3>
+          <p><strong>A. INFORMATION SUPPLIED BY USERS</strong></p>
+          <p><strong>Registration data:</strong></p>
+          <p>When you register on the website, Application and for the Service, we ask that you provide basic contact Information such as your name, sex, age, address, pin code, contact number, occupation, interests and email address, etc. When you register using your other accounts like on Facebook, Twitter, Gmail, etc. we shall retrieve Information from such an account to continue to interact with you and to continue providing the Services. Any personal data collected will be used by Veecon Media and Broadcasting Pvt Ltd to contact you via phone, SMS or email for marketing and to deliver certain updates for services or information you have requested.</p>
+          <h3>Subscription or paid service data:</h3>
+          <p>When you chose any subscription or paid service, we or our payment gateway provider may collect your purchase, address or billing information, including your credit card number and expiration date etc. However, when you order using an in-app purchase option, same are handled by such platform providers. The subscriptions or paid Services may be on auto renewal mode unless cancelled. If at any point you do not wish to auto-renew your subscription, you may cancel your subscription before the end of the subscription term.</p>
+          <h3>Voluntary information:</h3>
+          <p>We may collect additional information at other times, including but not limited to, when you provide feedback, change your content or email preferences, respond to a survey, or communicate with us.</p>
+          <h3>B. INFORMATION AUTOMATICALLY COLLECTED/ TRACKED WHILE NAVIGATION</h3>
+          <p><strong>Cookies</strong></p>
+          <p>To improve the responsiveness of the "Application" for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website, Application or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device, etc.</p>
+          <h3>Log Files Information</h3>
+          <p>We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g., UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed, etc.</p>
+          <h3>Clear GIFs</h3>
+          <p>We may use "clear GIFs" (Web Beacons) to track the online usage patterns of our users in an anonymous manner, without personally identifying the user. We may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. We use this information to inter-alia deliver our web pages to you upon request, to tailor our Site, Application or Service to the interests of our users, to measure traffic within our Application to improve the Application quality, functionality, and interactivity and let advertisers know the geographic locations from where our visitors come. Information from Other Sources: We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partners, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you </p>
+          <p>Demographic and purchase information: </p>
+          <p>We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track user behaviour on our website. Google Analytics specifically has been enabled to support display advertising towards helping us gain an understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google. </p>
+          <h3>2. LINKS TO THIRD PARTY SITES / AD-SERVERS </h3>
+          <p>The Application may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application, you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the application's homepage, you should contact the application owners directly for more information. </p>
+          <p>When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites or Applications -- it is usually in the form of aggregated statistics on traffic to various pages/content within our websites or Applications. We use third-party advertising companies to serve ads when you visit our websites or Applications. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites or applications, in order to provide advertisements about goods and services of interest to you.</p>
+          <p>We do not provide any personally identifiable information to third party websites/advertisers / ad-servers without your consent.</p>
+          <h3>3. INFORMATION USE BY THE COMPANY</h3>
+          <p>The Information as supplied by the users enables us to improve the Services and provide you the most user-friendly experience. In some cases, /provision of certain service(s) or utility(ies), we may require your contact address as well. All required information is service dependent and the Company may use the above-said user Information to, maintain, protect, and improve the Services (including advertising on the "Application") and for developing new services. We may also use your email address or other personally identifiable information to send commercial or marketing messages without your consent [with an option to subscribe/unsubscribe (where feasible)]. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.).
+          Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and/or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like Facebook, Twitter, etc.</p>
+          <p>Any posted/uploaded/conveyed/communicated by users on the public sections of the "Application" becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
+          In case you choose to decline to submit personally identifiable information on the Application, we may not be able to provide certain services on the Application to you. We will make reasonable efforts to notify you of the same at the time of opening your account. In any case, we will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information.</p>
+          <p>When you register with the Application or Services, we contact you from time to time about updating your personal information to provide the user's such features that we believe may benefit/interest you.</p>
+          <h3>5. ACCESSING AND UPDATING PERSONAL INFORMATION</h3>
+          <p>When you use the Services Site (or any of its sub-sites), we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+          </p>
+          <h3>6. INFORMATION SECURITY</h3>
+          <p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on TIL is securely stored within the Company controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+          </p>
+          <p>We use third-party advertising companies to serve ads when you visit or use our website, mobile application or services. These companies may use information (not including your name, address, email address or telephone number) about your visits or use to a particular website, mobile application or services, in order to provide advertisements about goods and services of interest to you.</p>
+          <h3>7. UPDATES / CHANGES</h3>
+          <p>The internet is an ever-evolving medium. We may alter our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point in time) the terms of this Privacy Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the "Application". Your use of the Application or Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Privacy Policy periodically on the "Application") to ensure that you are aware of the latest version.</p>
+          <h3>8. QUESTIONS / GRIEVANCE REDRESSAL</h3>
+          <p>Redressal Mechanism: Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to contact@IndiaDailyLivetv.com or ("Grievance Officer")
+          Grievance Officer (The India Daily) </p>
+          <p>Veecon Media and Broadcasting Pvt Ltd <br>
+          A-154a, 2nd Floor, Sector-63<br>
+          Noida, Uttar Pradesh 201301, India</p>
+          <p>We request you to please provide the following information in your complaint: -
+          Identification of the information provided by you; </p>
+          <p>Clear statement as to whether the information is personal information or sensitive personal information;
+          Your address, telephone number or e-mail address; </p>
+          <p>A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be; </p>
+          <p>A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you; </p>
+          <p>You may also contact us in case you have any questions/suggestions about the Privacy Policy using the contact information mentioned above. The company shall not be responsible for any communication, if addressed, to any non-designated person in this regard.</p>
+      `]
+      },
+      "disclaimerPage" : {
+        "id": 3,
+        "title": "Legal Disclaimer",
+        "paragraphs": [`
+            <p>We at The India Daily News are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our online contents or other offerings. This policy may change from time to time so please come back to check periodically. The India Daily News may collect the information explained herein under. Below is information outlining our continued support for the responsible management of customer information. </p>
+            <h3>General</h3>
+            <p>This Agreement, sets forth the terms and conditions that apply to use of this website, (www.theindiadaily.com), and all sub sites that reside under the site (collectively, "The India Daily Sites"), by a Subscriber. "Subscriber" means each person who establishes or accesses a connection ("Account") for access to and use of The India Daily Sites. </p>
+            <h3>Restrictions on use</h3>
+            <p>The The India Daily Sites are owned and operated by Veecon Media and Broadcasting Pvt Ltd. ("the Company"), and contains material which is derived in whole or in part from material supplied by the Company, various news agencies and other sources and is protected by international copyright and trademark laws. Except where specifically authorised, the Subscriber may not modify, copy, reproduce, republish, upload, post, transmit or distribute in any way any material from The India Daily including code and software. </p>
+            <p>By visiting our site, you are agreeing to be bound by the terms and conditions hereof. The Company shall have the right at any time to change or discontinue any aspect or feature of The India Daily Sites, including, but not limited to, content, hours of availability and equipment needed for access or use, adding fees and charges for use. Your continued use of The India Daily sites means that you accept any new or modified terms and conditions that we come up with. </p>
+            <h3>Subscriber Conduct</h3>
+            <p>Subscriber shall use the The India Daily for lawful purposes only. Subscriber shall not post or transmit through The India Daily Sites any material which violates or infringes in any way upon the rights of others, which is unlawful, threatening, abusive, defamatory, invasive of privacy or publicity rights, vulgar, obscene, profane or otherwise objectionable, which encourages conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any law, or which, without the Company's express prior approval, contains advertising or any solicitation with respect to products or services. </p>
+            <p>Any conduct by a Subscriber that in the Company's discretion restricts or inhibits any other Subscriber from using or enjoying The India Daily Sites will not be permitted. Subscriber shall not use The India Daily Sites to advertise or perform any commercial solicitation, including, but not limited to, the solicitation of users to become subscribers of other on-line information services competitive with The India Daily Sites. The India Daily Sites contain copyrighted material, trademarks and other proprietary information, including, but not limited to, text, software, photos, video, graphics, music or sound, and the entire contents of The India Daily Sites are copyrighted as a collective or severable work under applicable copyright laws. </p>
+            <p>The Company and/or its affiliates own or have acquired a copyright in the selection, coordination, arrangement and enhancement of such content, as well as in the content original to it. Subscriber may not modify, publish, transmit, participate in the transfer or sale, create derivative works, or in any way exploit, any of the content, in whole or in part. Subscriber may download copyrighted material for Subscriber's personal use only. Except as otherwise expressly permitted under copyright law, no copying, redistribution, retransmission, publication or commercial exploitation of downloaded material will be permitted without the express permission of the Company and the copyright owner. Subscriber acknowledges that it does not acquire any ownership rights by downloading copyrighted material. </p>
+            <p>Subscriber shall not upload, post or otherwise make available on The India Daily Sites any material protected by copyright, trademark or other proprietary right without the express permission of the owner of the copyright, trademark or other proprietary right and the burden of determining that any material is not protected by copyright rests with Subscriber. Subscriber shall be solely liable for any damage resulting from any infringement of copyrights, proprietary rights, or any other harm resulting from such a submission. By submitting material to any public area of The India Daily Sites, Subscriber automatically grants, or warrants that the owner of such material has expressly granted the Company the royalty fee, perpetual, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate and distribute such material (in whole or in part) worldwide and/or to incorporate it in other works in any form, media or technology now known or hereafter developed for the full term of any copyright that may exist in such material. </p>
+            <p>Subscriber also permits any other Subscriber to access, view, store or reproduce the material for that Subscriber's personal use. Subscriber hereby grants the Company the right to edit, copy, publish and distribute any material made available on The India Daily Sites by subscriber The foregoing provisions are for the benefit of the Company, its subsidiaries, affiliates and its third-party content providers and licensors and each shall have the right to assert and enforce such provisions directly or on its own behalf. </p>
+            <h3>Limitation of Liability</h3>
+            <p>You expressly agree that use of the website is at your sole risk. The contents, information, software, products, features and services published on this website may include inaccuracies or typographical errors. Changes are periodically added to the contents herein. The Company, The India Daily sites theIndiaDailyLive.com and/or its respective content providers may make improvements and/or changes in this web site at any time. this web site may be temporarily unavailable from time to time due to required maintenance, telecommunications interruptions, or other disruptions.The India Daily (and its owners, suppliers, consultants, advertisers, affiliates, partners, employees or any other associated entities, all collectively referred to as associated entities) shall not be liable to user or member or any third party, theIndiaDailylive.com exercise its right to modify or discontinue any or all of the contents, information, software, products, features and services published on this website. </p>
+            <p>In no event shall The India Daily and/or its associated entities be liable for any direct, indirect, punitive, incidental, special or consequential damages arising out of or in any way connected with the use of this web site or with the delay or inability to use this website, or for any contents, information, software, products, features and services obtained through this web site, or otherwise arising out of the use of this web site. <br>
+            <strong>General</strong> <br>
+            ADDITIONALLY, THERE ARE NO WARRANTIES AS TO THE RESULTS OBTAINED FROM THE USE OF THE INFORMAT</p>
+            <h3>Indemnification</h3>
+            <p>Subscriber agrees to defend, indemnify and hold harmless the Company, its affiliates and their respective directors, officers, employees and agents from and against all claims and expenses, including attorney's fees, arising out of the use of The India Daily Sites by Subscriber or Subscriber's Account. </p>
+            <h3>Termination</h3>
+            <p>The Company shall have the right to immediately terminate Subscriber's Account in the event of any conduct by Subscriber which the Company, in its sole discretion, considers to be unacceptable, or in the event of any breach by Subscriber of this Agreement. </p>
+            <h3>Trademarks</h3>
+            <p>“India Daily Live”, “Theindiadaily.com”, and/or any other trademarks and trade names being shown or used on the The India Daily Sites are the property of their respective owners. </p>
+            <h3>Third Party Content </h3>
+            <p>The Company is a distributor (and not a publisher) of content supplied by third parties and Subscribers. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, including information providers, Subscribers or any other user of The India Daily Sites, are those of the respective author(s) or distributor(s) and not of the Company. Neither the Company nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular purpose. </p>
+            <p>In/ many instances, the content available through The India Daily Sites represents the opinions and judgements of the respective information provider, Subscriber, or other user not under contract with the Company. The Company neither endorses nor is responsible for the accuracy or reliability of any opinion, advice or statement made on The India Daily Sites by anyone other than authorized the Company employee spokespersons while acting in their official capacities. Under no circumstances will the Company be liable for any loss or damage caused by a Subscriber's reliance on information obtained through The India Daily Sites. It is the responsibility of Subscriber to evaluate the accuracy, completeness or usefulness of any information, opinion, advice or other content available through The India Daily Sites.</p>
+            <h3>Disclaimer</h3>
+            <p>The Company has provided or may provide links and pointers to Internet sites maintained by third parties. The linked sites are not under the control of the Company. The company has not reviewed, nor approved these sites and is not responsible for the contents or omissions of any linked sites or any links contained in a linked site. The inclusion of any linked site does not imply endorsement by the Company of the site. </p>
+            <p>The Company does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected, or that this site, including Bulletin Boards, or the server that makes it available, are free of viruses or other harmful components. The Company does not warrant or make any representations regarding the use or the results of the use of the materials in The India Daily Sites or in third-party sites in terms of their correctness, accuracy, timeliness, reliability or otherwise. Subscriber (and not the Company) assume the entire cost of all necessary maintenance, repair or correction.</p>
+        `]
+      },
+      "cookiesPage" : {
+        "id": 4,
+        "title": "These cookies",
+        "paragraphs": [`
+        <h3>How Does The India Daily USE COOKIES?</h3>
+        <p>A cookie is a small piece of text that allows a website to recognize your device and maintain a consistent, cohesive experience throughout multiple sessions. If you use The India Daily Platform, both The India Daily and third parties will use cookies to track and monitor some of your activities on and off The India Daily Platform, and store and access some data about you, your browsing history, and your usage of the India Daily Network. </p>
+        <p>This policy describes how both The India Daily and other third parties use cookies both within and without The India Daily Platform and how you can exercise a greater degree of control over cookies. Please keep in mind that this may alter your experience with our platform, and may limit certain features (including being logged in as a user). </p>
+        <h3>General Browsing:</h3>
+        <p>We use cookies that are important for certain technical features of our website, like logging into user accounts and implementing fixes and improvements to our platform. </p>
+        <p>Enable behaviour in our Products and/or Services that is tailored to the activity or preferences of a person visiting our properties
+        Allow users to opt out of certain types of modelling, tailoring, or personalization in our products
+        Collect information on our users’ preferences in order to create more useful products
+        Maintain the regular business operations of our Advertising and Marketing departments (such as one-time pop-ups or “hero” displays when first visiting a site and to collect impressions and click data)
+        Help to diagnose and correct downtime, bugs, and errors in our code to ensure that our products are operating efficiently
+        The India Daily Main Website: We use cookies that support and enhance our public content platform by enabling important functionality. Such activity includes tracking and attributing content reads, push notifications and logins. </p>
+        <h3>These cookies:</h3>
+        <p>Validate the authenticity of persons attempting to gain access to a specific user account
+        </p><p>Enable the core platform of content to show and hide specific elements.</p>
+        <p>Identify individual users to attribute activities and actions. </p>
+        Advertising: We use cookies to enable advertising with our third-party Partners, which in turn allows us to provide many of our services free of charge. <p></p>
+        <p>These cookies: </p>
+        <p>Customize the ad experience for our users, including tailoring job and display ads to the technologies a person has previously looked at, the communities a person has visited, and the job ads a person has already seen. </p>
+        <p>Allow direct communication between a 3rd party partner who hosts a promotional event with us, and users who have opted into the promotion. </p>
+        <p>Allow us to track when The India Daily user sees or clicks on an ad or later visits a third-party website or purchases a product on a third-party website. </p>
+        <p>Collect impressions and click data for internal reporting and product optimization
+        Analytics: We use cookies to compile usage activity in order to better cater our Products and Services offerings to you, and to third parties. We DO NOT share identifiable “raw” data with our clients or any third parties, however we do make high-level decisions based on aggregated data about your usage of our Products and Services. </p>
+        <p>These cookies: </p>
+        <p>Monitor site traffic and behaviour flows of users </p>
+        <p>Measure the effectiveness of on-site products </p>
+        <p>Measure the effectiveness of off-site marketing campaigns and tactics </p>
+        <h3>WHAT INFORMATION IS COLLECTED ON ME VIA COOKIES?</h3>
+        <p>In general, we collect most data from you via form submission. However, there are cases when visiting our site and/or using our platforms in which we may receive certain information through the use of cookies. This data will generally not include personally identifying information about you.
+        </p>
+        <h3>HOW DO I RESTRICT COOKIES?</h3>
+        <p>If you don’t want The India Daily to use cookies when you visit The India Daily network of sites, you can opt-out of all cookies from your browser. If you opt-out of cookies, you might face issues w.r.t authentication on our platform and the functionality like bookmarks, read late, recommended content and your ability to write on The India Daily might not be as intuitive as it should be. </p>
+        <p>While setting options may vary from browser to browser, you can generally choose to reject some or all cookies, or instead to receive a notification when a cookie is being placed on your device. For more information, please refer to the user help information for your browser of choice. Please keep in mind that cookies may be required for certain functionalities, and by blocking these cookies, you may limit your access to certain parts or features of our sites and platforms. </p>
+        <p>Finally, while cookies are set for varying durations on your device, you can manually delete them at any time. However, deleting cookies will not prevent the site from setting further cookies on your device unless you adjust the settings discussed above. </p>
+        <h3>CONTACT US</h3>
+        <p>If you have any questions, comments, or concerns regarding this Cookies Policy, please contact The India Daily at
+        contact@IndiaDailyLivetv.com </p>
+        `]
+      },
+      "ethicsPage" : {
+        "id": 5,
+        "title": "Ethics Policy & Mission",
+        "paragraphs": [`
+        <h3>Mission</h3>
+        <p>The mission of The India Daily news is to help subscribers to stay updated and informed about the news and events from around the globe. We at The India Daily News strive for Rashtrahit and that is why our motto to dedicate every news to Nation (Rashtra Ko Samarpit). </p>
+        <h3>Ethics Policy</h3>
+        <p>All employees of The India Daily are expected to work in the best interest of the organization while acting in accordance with the company’s code of conduct and ethics policy. </p>
+        <p>Employees are expected to bring to the notice of the Human Resources or Legal departments in case they witness any violation of ethics by any or a group of employees. </p>
+        <p>The India Daily employees must avoid all possible scenarios of conflict of interest, while covering an event, conducting an interview or collecting data for a news article. </p>
+        <p>To avoid such scenarios, employees must inform their reporting heads about the possibility of the conflict of interest. </p>
+        <p>Employees are barred from using their position in the organization for their personal benefits, or accepting gifts, corporate benefits and rewards from sources to tweak information in articles. </p>
+        <p>Any conflicting relationships with any employee within the organization must be disclosed.
+        Employees should not partake in any form of harassment against colleagues or refrain from bringing to notice any such instances that they deem to be against workplace ethics. </p>
+        <p>The company has the right to access all communication that is official in nature – involving resources provided by the organization or that involves exchange of information pertaining to the company. </p>
+        <p>The India Daily employees are expected to handle financial matters related to the company with utmost responsibility, making necessary disclosures from time to time. </p>
+        <p>Sensitive information available to reporters while collecting data for stories shall not be misusedby any means. </p>
+        <p>All employees are expected to adhere to the laws of the land and the company shall not be responsible for any act committed in violation of the above. The same is applicable while concerning laws about data privacy. </p>
+        <p>The India Daily staff is prohibited from colluding or sharing information with competitors. They should not work along with any competing entities while fixing prices of products or services offered by the company.</p>
+        <p>The company has a list of organisations that we don’t deal or cover. The employees are thus required to refrain from covering or writing about any of these blocked companies. </p>
+        `]
+      },
+      "termsPage" : {
+        "id": 6,
+        "title": "Terms Of Service",
+        "paragraphs":[`
+        <p>Welcome to The India Daily, its “Site” owned, managed and operated by Veecon Media and Broadcasting Pvt Ltd
+        (hereinafter referred to as the “Company”, “we” or “our”, which expression shall unless the same
+        be repugnant to the context or meaning thereof be deemed to mean and include its affiliates,
+        successors in business and assigns). </p>
+        <h3>ACCEPTANCE OF TERMS OF USE</h3>
+        <p>Please read the following terms and conditions as these terms of use (“Terms”) constitute a
+        legally binding agreement between you and the Company regarding your browsing, access and use of
+        the Site and any functionalities, features, information, contests, services, products offered by
+        the Company including but not limited to delivery of specialized content, subscription based
+        services, content and premium services via the Site, any mobile or internet connected device or
+        otherwise (the "Service").</p>
+        <p>“User”, “you” or “your”: means any person, who is accessing, using the Site, in any manner whatsoever, and is of 18 years of age or older, capable to enter into a legally binding agreement under the laws of India.</p>
+        <p>By accessing the Site or Service, you agree to be bound by these Terms. You hereby represent and warrant to the Company that you are at least eighteen (18) years of age or above and are capable of entering, performing and adhering to these Terms and that you agree to be bound by the following terms and conditions. While individuals under the age of 18 may access and use the site, they shall do so only with the involvement &amp; guidance of their parents and / or legal guardians. You agree to register prior to uploading any content and / or comment and any other use or Services of this Site and provide your details including but not limited to complete name, age, email address, residential address, contact number.</p>
+        <p>The Company reserves the right, at its discretion, to change, modify, add, or remove portions of these Terms at any time by posting the amended Terms. Please check these Terms periodically for changes. Your continued use of the site or Services after the posting of changes constitutes your binding acceptance of such changes. In addition, when using any particular services, you may be subject to any posted guidelines, rules, product requirements or sometimes additional terms applicable to such services. All such guidelines, rules, product requirements or sometimes additional terms are hereby incorporated by reference into the Terms.</p>
+        <p>Your access or use of the site or service shall mean that you have read, understand and agree to be bound by the terms. By accessing or using any website or services you also represent that you have the legal authority as per applicable law (including but not limited to age requirement) to accept the terms on behalf of yourself and/or any other person you represent in connection with your use of the site or services. If you do not agree to the terms, you are not authorized to use the site or services.</p>
+        <h3>CONTENT OWNERSHIP AND LIMITED LICENSE</h3>
+        <p>Company Content means Company’s content, including but not limited to, Company trademarks and logos made available through the Site and Services, excluding Third Party Content and User Submissions.</p>
+        <h3>Third Party Content</h3>
+        <p>You may be able to access, review, display or use third party services, resources, content or information via the Site or the Services.</p>
+        <h3>User Submissions</h3>
+        <p>This “means the text, data, graphics, images, photos, video or audiovisual content, hypertext links and any other content that the Company allows its users to uploads, posts, flips, compiles or otherwise provided to Company via the Site and Services, as applicable.</p>
+        <h3>Ownership:</h3>
+        <p>The Site, Services and the Company Content are protected by copyright, trademark and other applicable laws. Except as expressly provided in these Terms, Company and its licensors exclusively own all right, title and interest in and to the Site, Services, and the Company Content, including all associated intellectual property rights. You may not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Site, Services or Company Content. Company claims no ownership interest in any Third-Party Content and expressly disclaims any liability concerning those materials.</p>
+        <h3>Limited License:</h3>
+        <p>Subject to your compliance with the Terms herein, the Company hereby grants you a personal, limited, non-exclusive, non-transferable, freely revocable license to use the Services for the personal and non-commercial use only. Except for the foregoing limited license, no right, title or interest shall be transferred to you. Content on the Site and/or the Services is provided to you “AS IS” for your information and personal use only and may not be used, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any other purposes whatsoever without the prior written consent of the respective owners. We reserve all rights not expressly granted in and to the Site and/or the Services and the Content. </p>
+        <p>These Terms do not authorize you to, and you may not, reproduce, distribute, publicly display, publicly perform, communicate to the public, make available, create derivative works of or otherwise use or exploit any Third-Party Content or User Submissions in violation of applicable copyright law. Any unauthorized use of the Contents or the Services will result in termination of the limited license granted by the Company and cancellation of your membership. Use of Site or the Services for any unauthorized purpose may result in severe civil and criminal penalties. The Company does not promote, foster or condone the copying of Content, or any other infringing activity and the owners of Third-Party Content or User Submissions may have the right to seek damages against you for any such violation.
+        Interactions between Users</p>
+        <p>You are solely responsible for your interactions (including any disputes) with other users. You understand that Company does not in any way screen Company users. You are solely responsible for, and will exercise caution, discretion, common sense and judgment in, using the Site and Services and disclosing personal information to other Company users. You agree to take reasonable precautions in all interactions with other Company users, particularly if you decide to communicate with Company user offline or meet them in person. Your use of the Site, Services, Company Content, and any other content made available through the Site or Services is at your sole risk and discretion, and Company hereby disclaims any and all liability to you or any third party relating thereto. Company reserves the right to contact Company users, in compliance with applicable law, in order to evaluate compliance with the rules and policies in this Terms You will cooperate fully with Company to investigate any suspected unlawful, fraudulent or improper activity via the Services.</p>
+        <p>By making available any User Submissions through the Site and Services, you hereby grant to Company and its users a worldwide, non-exclusive, perpetual, irrevocable, transferable, assignable, royalty-free license, with the right to sublicense, to use, copy, adapt, modify, distribute, publicly display, publicly perform, transmit, stream, broadcast, make available, communicate to the public and otherwise use and exploit such User Submissions through or by means of the Site and the Services and/or to incorporate it in other works in any form, media, or technology now known or later developed throughout the world. Company does not claim any ownership rights in any such User Submissions and nothing in these Terms will be deemed to restrict any rights that you may have to use any such User Submissions. You hereby acknowledge and agree that Company shall not be liable for any Uses of your User Submissions by any third party that had access to your User Submissions during the period in which your User Submissions was available on or through the Services. You acknowledge and agree that Company reserves the right to not to publish, display the User Submissions or modify, amend or delete any User Submissions on the receipt of any complaint, that the User Submissions are infringing or in violation of any applicable laws. You acknowledge and agree that you are solely responsible for all User Submissions that you make available through the Site or Services. </p>
+        <p>Accordingly, you represent and warrant that: </p>
+        <ol type="A">
+        <li>you either are the sole and exclusive owner of all User Submissions that you make available through the Site or Services or you have all rights, licenses, consents and releases that are necessary to grant to Company the rights in such User Submissions, as contemplated under these Terms;</li>
+        <li>neither the User Submissions nor your accessing, posting, submission or transmittal of the User Submissions or Company’s use of the User Submissions (or any portion thereof) on, through or by means of the Site and the Services or any other permitted use will infringe, misappropriate or violate a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation; and</li>
+        <li>no payments of any kind shall be due to any third party, whether a copyright owner or an agent thereof, for any use made of the User Submissions (or any portion thereof) on, through or by means of the Site and the Services.</li>
+        </ol>
+        <p>By using the Site or the Services, you acknowledge the sole responsibility for and assume all risk arising from your access to, use of or reliance upon any such Third-Party Content, or User Submissions and Company disclaims any liability that you may incur arising from your access to, use of or reliance upon such Third-Party Content or User Submissions. </p>
+        <p><strong>You acknowledge and agree that Company: </strong></p>
+        <ol type="A">
+        <li> is not responsible for the availability or accuracy of such Third-Party Content or User Submissions;</li>
+        <li>has no liability to you or any third party for any harm, injuries or losses suffered as a result of your access to, reliance on or use of such Third-Party Content or User Submissions; </li>
+        <li>does not undertake or assume any duty to monitor for inappropriate or unlawful content on third party websites or User Submissions; and </li>
+        <li>does not make any promises to remove Third Party Content from being accessed through the Site or the Services.</li>
+        </ol>
+        <h3>THE SERVICE REGISTRATION AND ACCESS TO USE</h3>
+        <p><strong>Registration</strong></p>
+        <p>To register for the Services, you may be required to open an account by completing the registration process (i.e., by providing us with current, complete and accurate information as prompted by the applicable registration form). You will also choose a password and a user name. You are entirely responsible for maintaining the confidentiality of your password and account. </p>
+        <p>maintaining the confidentiality of your password and account. In particular, as a parent or legal guardian, you acknowledge and assume sole responsibility to ensure that content which is meant for mature audiences (i.e., above the age of majority) is not accessed by children. Hence, you may not share your log in credentials with your children. You expressly agree to absolve the Company of any responsibility / liability in this regard.</p>
+        <h3>LINKS TO OTHER SITES</h3>
+        <p>The Site or the Services may contain the links or pointers to other websites but you should not infer or assume that the Company operates, controls, or is otherwise connected with these other websites. When you click on a link within the Site, the Company may not warn you that you have left the Site and are subject to the terms and conditions (including privacy policies) of another website. Please be careful to read the terms of use and privacy policy of any other website before you provide any confidential information or engage in any transactions. You should not rely on these Terms to govern your use of another website. </p>
+        <p>The Company is not responsible for the content or practices of any other website even if it links to the Site and even if the website is operated by a company affiliated or otherwise connected with the Company. You acknowledge and agree that the Company is not responsible or liable to you for any content or other materials hosted and served from any website other than the Site.</p>
+        <h3>ADVERTISING MATERIAL</h3>
+        <p>Part of the Site or the Services may contain advertising information or promotion material or other material submitted to the Company by third parties. Responsibility for ensuring that material submitted for inclusion on the Site complies with applicable international and national law is exclusively on the party providing the information/material. Your correspondence or business dealings with, or participation in promotions of advertisers including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. Before relying on any advertising material, you should independently verify its relevance for your purpose, and should obtain appropriate professional advice. The Company shall not be responsible nor liable for any loss or claim that you may have against an advertiser or any consequential damages arising on account of your relying on the contents of the advertisement.</p>
+        <h3>COLLECTION AND USE OF PERSONAL INFORMATION</h3>
+        <p>For information about the Company´s policies and practices regarding the collection and use of your personally identifiable information, please read the Privacy Policy as available on the Site. The Privacy Policy is incorporated by reference and made part of these Terms. Thus, by agreeing to these Terms, you agree that your presence on the Site and use of the Services are governed by the Company’s Privacy Policy in effect at the time of your use. The Company reserves the right to disclose any information that is required to be shared, disclosed or made available to any governmental, administrative, regulatory or judicial authority under any law or regulation applicable to the Company. The Company can further disclose your name, street address, city, state, zip code, country, phone number, email, as it in its sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. Company may also share certain filtered information, i.e. email id or any other relevant information, to Company's third-party business partners who may contact you to enable you to have a better experience on the Site or to avail certain benefits specially made for you. Company may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. Company respects your privacy and if you choose to not receive such mailers, Company will take all steps to remove you from the list.</p>
+        <h3>YOUR OBLIGATIONS</h3>
+        <p>You hereby agree and assure the Company that the Site and/or the Services shall be used for lawful purposes only and that you will not violate laws, regulations, ordinances or other such requirements of any applicable Central, State or local government or any other international laws. You specifically agree to comply with the requirements of the Information Technology Act, 2000 as also rules, regulations, guidelines, bye laws and notifications made thereunder, while on the Site. You further concur that you shall not:</p>
+        <p>use the Site or the Services in any manner that could damage, disable, overburden, or impair and not to undertake any action which is harmful or potentially harmful to any the Company´s server, or the network(s), computer systems / resource connected to any the Company server, or interfere with any other party´s use and enjoyment of the Site or the Services; </p>
+        <p>obtain or attempt to obtain any materials or information through any means not intentionally made available through the Site/Services;
+        perform any activity which is likely to cause such harm; </p>
+        <p>carry out any "denial of service" (DoS, DDoS) or any other harmful attacks on Site or internet service or;
+        use the Site or the Services for illegal or unlawful purposes; </p>
+        <p>disrupt, place unreasonable burdens or excessive loads on, interfere with or attempt to make or attempt any unauthorized access to Site or any the Company website or the website of any the Company´s customer; </p>
+        <p>forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Site or the Services;
+        attempt to gain unauthorized access to the Services, other accounts and computer systems through hacking, password mining or any other means. You shall not obtain or attempt to obtain any materials or information through any means not intentionally made available through the Site or the Services;
+        incorporate the Site or Services into or retransmit via, any hardware or software application or make it available via frames or in-line links unless expressly permitted by the Company in writing; </p>
+        <p>create, recreate, distribute or advertise an index of any significant portion of the Site or Services unless authorized by the Company;
+        use or launch any "robots", "spiders", "offline readers" etc. or any other automated system, that accesses the Site or the Services in a manner that sends numerous automated requests to the Site´s servers in a given period of time, which a human cannot reasonably send in the same period by using conventional web browsing application or tool(s) for similar purposes; </p>
+        <p>Send or post any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation like solicit login information or access an account belonging to someone else;
+        Use the Site, Services or Company Content for any commercial purpose or the benefit of any third party or in any manner not permitted by these Terms of Use;</p>
+        <p>Impersonate or misrepresent your affiliation with any person or entity;
+        Encourage or enable any other individual to do any of the foregoing.
+        In addition, you are strictly prohibited from creating derivative works or materials that otherwise are derived from or based, on the Content in any way, including montages, mash-ups and similar videos, wallpaper, desktop themes, greeting cards, and merchandise, unless it is expressly permitted by the Company in writing. This prohibition applies even if you intend to give away the derivative materials free of charge. </p>
+        <p>The Site may permit you to post user submissions including but not limited to reviews of Content available through the Services, comments on such Content etc. You understand that these User Submissions, once posted by you, are visible to all members since it is a public forum.
+        More specifically, when you review / rate any Content available on the Services (as per functionality made available on the Site), you give the Company express rights and consent to display your rating / review in relation to the relevant Content on the Site, including making it available to other members for viewing. If you do not want your User Submissions / reviews / ratings to be shared in a public forum, do not use these features.</p>
+        <p>These features may change without notice to you and the degrees of associated information sharing and functionality may also change without notice.
+        The Company is free to use any comments, information, ideas, concepts, reviews, or techniques or any other material contained in any communication you may send to us ("User Feedback"), including responses to questionnaires or through postings to the Services / the Site and User Submissions, without further compensation, acknowledgement or payment to you for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products and creating, modifying or improving the Services. By posting / submitting any User Feedback / User Submission on the Site, you grant the Company a perpetual, worldwide, non-exclusive, royalty-free irrevocable, sub-licensable license and right in such User Feedback / User Submission to the Company, including the right to display, use, reproduce or modify the User Feedback / User Submission in any media, software or technology of any kind now existing or developed in the future.</p>
+        <p>Operators of public search engines have the permission to use functionalities like spiders to copy materials from the Site for the sole purpose of creating publicly available searchable indices of the materials, but not caches or archives of such materials. We reserve the right to revoke these exceptions either generally or in specific cases, in our sole discretion. You agree not to collect or harvest any personally identifiable information, including account names, from the Site, nor to use the communication systems provided by the Site for any commercial solicitation purposes. You agree not to solicit, for commercial purposes, any users of the Site with respect to its User Submissions. </p>
+        <p>You shall be financially responsible for your use of the Services (as well as for use of your account by others, including without limitation minors living with you). You undertake to supervise and be responsible for all usage of minors and access of the Site under your name or account and absolve the Company from any liability on this account. You also warrant that all information supplied by you or members of your family for using the Services and accessing the Site, including without limitation your name, email address, street address, telephone number, mobile number, credit card number is correct and accurate. Failure to provide accurate information may subject you to civil and criminal penalties.</p>
+        <p>You shall be responsible for obtaining and maintaining any equipment or ancillary services needed to connect to, access the Site or otherwise use the Services, including, without limitation, modems, hardware, software, and long distance or local telephone service. You shall be responsible for ensuring that such equipment or ancillary services are compatible with the Services.</p>
+        <p>You agree that the Company may directly or through third party service providers send information to you about the various services offered by the Company from time to time. </p>
+        <p>You agree that Company will have the right to investigate and take all appropriate legal action to prevent, stop or deter violations of any of the above, including infringement of intellectual property rights and Site and Services security issues. Company may involve and cooperate with law enforcement authorities in prosecuting users who violate these Terms of Use or the rights of any third party. </p>
+        <p>You acknowledge that Company has no obligation to monitor your access to or use of the Site, Services or Company Content or to review or edit any User Submissions or Third-Party Materials, but has the right to do so for the purpose of operating the Site and Services, to ensure your compliance with these Terms of Use, or to comply with applicable law or the order or requirement of a court, administrative agency or other governmental body. Company reserves the right, at any time and without prior notice, to remove or disable access to any Company Content, Third Party Materials, and any User Submissions, that Company, in its sole discretion, considers to be in violation of these Terms or otherwise harmful to the Site or Services.</p>
+        <h3>PROHIBITED ACTIVITIES</h3>
+        <p>You agree not to host, display, upload, modify, publish, transmit, update or share any information or User Submissions which
+        belongs to another person and to which the User does not have any right to;
+        is grossly harmful, harassing, blasphemous defamatory, obscene, pornographic, pedophilic, libelous, invasive of another´s privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever; </p>
+        <p>harm minors in any way;
+        infringes any patent, trademark, copyright or other proprietary rights;
+        violates any law for the time being in force;
+        deceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or menacing in nature; </p>
+        <p>impersonate another person;
+        contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource; </p>
+        <p>threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign states, or public order or causes incitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting any other nation; </p>
+        <p>contain misleading information regarding the origin of the Content; or
+        otherwise contains objectionable content. </p>
+        <p>You understand and agree that the Company may, but is not obligated to, review the User Submissions and may delete or remove it (without notice) in its sole and absolute discretion, for any reason or without assigning any reason.
+        If you are found to be in non-compliance with the laws and regulations, these terms, or the privacy policy of the Site, the Company shall have the right to immediately terminate/block your access and usage of the Site and the Company shall have the right to immediately remove any non-compliant Content and or comment, uploaded by you and shall further have the right to take recourse to such remedies as would be available to the Company under the applicable laws.</p>
+        <h3>TERMINATION OF ACCOUNT, SUSPENSION OR DISCONTINUATION OF THE SERVICE </h3>
+        <p>The Company reserves the right to change, suspend, or discontinue temporarily or permanently, some or all of the Services (including the Content and the devices through which the Services are accessed), with respect to any or all users, at any time without notice. You acknowledge that the Company may do so in its sole discretion. You also agree that the Company will not be liable to you for any modification, suspension, or discontinuance of the Services, although if you are a paid subscriber and the Company suspends or discontinues the Services, the Company may, in its sole discretion, provide you with a credit, refund, discount or other form of consideration (for example, the Company may credit additional days of service to your account). However, if the Company terminates your account or suspends or discontinues your access to the Services due to your violation of these Terms, then you will not be eligible for any such credit, refund, discount or other consideration.</p>
+        <h3>DISCLAIMER OF WARRANTIES AND LIABILITY</h3>
+        <p>You understand and agree that the Company provides the Services on ´as-is´ ´with all faults´ and ´as available´ basis. You agree that use of the Site or the Services is at your risk. All warranties including without limitation, the implied warranties of merchantability, fitness for a particular purpose, for the title and non-infringement are disclaimed and excluded.
+        No representations, warranties or guarantees whatsoever are made by the Company as to the (a) accuracy, adequacy, reliability, completeness, suitability or applicability of the information to a particular situation; (b) that the service will be uninterrupted, timely, secure, or error-free; (c) the quality of any services, content, information, or other material on the Site will meet your expectations or requirements; (d) any errors in the Site will be corrected; (e) warranties against infringement of any third party intellectual property or proprietary rights; or (f) other warranties relating to performance, non-performance, or other acts or omissions of the Company, its officers, directors, employees, affiliates, agents, licensors, or suppliers.</p>
+        <p>The Company does not warrant that any of the software used and or licensed in connection with the Services will be compatible with other third-party software or devices nor does it warrant that operation of the Services and the associated software will not damage or disrupt other software or hardware.
+        The Company, its affiliates, successors, and assigns, and each of their respective investors, directors, officers, employees, agents, and suppliers (including distributors and content licensors) shall not be liable, at any time for any, direct, indirect, punitive, incidental, special, consequential, damages arising out of or in any way connected with the use of Site or the Services, whether based in contract, tort, strict liability, or other theory, even if the Company have been advised of the possibility of damages.
+        In the event any exclusion contained herein be held to be invalid for any reason and the Company or any of its affiliate entities, officers, directors or employees become liable for loss or damage, then, any such liability of the Company or any of its affiliate entities, officers, directors or employees shall be limited to not exceeding subscription charges paid by you in the month preceding the date of your claim for the particular subscription in question chosen by you.</p>
+        <h3>INDEMNIFICATION</h3>
+        <p>WYou agree to indemnify, defend and hold harmless, the Company, its affiliates, successors, and assigns, and each of their respective investors, directors, officers, employees, agents, and suppliers (including distributors and content licensors) from and against any losses, claims, damages, liabilities, including legal fees and expenses, arising out of:
+        any claim due to or arising out of your violation of these Terms, including but not limited to a claim arising out of a breach of your representations or warranties made hereunder; </p>
+        <p>your use or misuse of or access to the Site or the Services;
+        your violation of any law, regulation or third party right, including without limitation any copyright, property, or privacy right; or
+        any claim that you have caused damage to a third party.
+        The Company reserves the right, at its own expense, to employ separate counsel and assume the exclusive defence and control of any matter otherwise subject to indemnification by you, and you agree to cooperate with the Company´s defence of these claims.
+        Notice of Copyright Infringement: Our policy is to comply with all Intellectual Property Laws and to act expeditiously upon receiving any notice of claimed infringement. If you believe that any work has been reproduced on the Site in a manner that constitutes copyright infringement, please provide a notice of copyright infringement containing all of the following information: </p>
+        <p>A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+        Identification of the copyrighted work claimed to have been infringed.
+        Identification of the material on our Site that is claimed to be infringing or to be the subject of infringing activity.
+        The address, telephone number or e-mail address of the complaining party.
+        A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+        A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed. </p>
+        <h3>GENERAL TERMS</h3>
+        <p><strong>Relationship</strong></p>
+        <p>None of the provisions of the Terms shall be deemed to constitute a partnership or agency between you and the Company and you shall have no authority to bind the Company in any manner, whatsoever. This agreement is solely for your and the Company’s benefit and not for the benefit of any other person, except for permitted successors and assigns under this Agreement.
+        Assignment</p>
+        <p>You may not transfer to anyone else, either temporarily or permanently, any rights to use the Services or any part of the Services. Any attempt by you to do so is void. The Company may assign, transfer, delegate and/or grant all or any part of its rights, privileges and properties hereunder to any person or entity.
+        Force Majeure</p>
+        <p>Neither Party shall have any liability for any interruption or delay, to access the Site due to Force Majeure Event. For the purposes of this clause, ´Force Majeure Event´ means any event or circumstance or combination of events and circumstances which is reasonably beyond the control of the party affected thereby and which causes or results in default or delay in performance by such affected party of any of its obligations under this agreement and includes an act of God, war, hostilities, civil commotion, strikes, lockouts and other industrial disputes.
+        Applicable Law</p>
+        <p>These Terms are governed by and construed in accordance with, the laws of India without giving effect to principles of conflict of law. In the event of any dispute or claim by you against the Company, you agree to submit to the exclusive jurisdiction of courts at New Delhi.</p>
+        <p>Limited Time to Bring Your Claim
+        You and the Company agree that any cause of action arising out of or related to use of the Site or the Services must commence within one (1) year after the cause of action accrues otherwise, such cause of action will be permanently barred.
+        Survival</p>
+        <p>Rights and obligations under the Terms which by their nature should survive will remain in full effect after termination or expiration of the subscription.
+        Non-Waiver</p>
+        <p>Any express waiver or failure to exercise promptly any right under this agreement will not create a continuing waiver or any expectation of non-enforcement.</p>
+        <h3>Entire Agreement</h3>
+        <p>These Terms constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.</p>
+        `]
+      },
+      "verificationPage" : {
+        "id": 7,
+        "title": "Verification and Fact Checking Policy",
+        "paragraphs":[`
+        <p>The India Daily requires its correspondents to verify facts for its stories from multiple sources. In case of information obtained from a report or study, the story mentions the name of the report in full and other pertinent details. </p>
+        <h3>In case of source-based information: </h3>
+        <p>In case of some exclusive reports when the reporter has reliable information from a source, we still reach out to the respective individuals or companies for a confirmation. If there is no response from the parties till the time of publishing the story, the same is mentioned clearly in the news article. </p>
+        <h3>Facts in press releases:</h3>
+        <p>The India Daily doesn’t take responsibility for information provided in press releases that have been sent to us by PR agencies. However, in case of a need to rectify or revise information in the same, the editorial team does carry out the necessary changes. </p>
+        <h3>Stories from other websites:</h3>
+        <p>If a news story has appeared on other sites and has attributed its information to credible sources, The India Daily editorial team puts together information provided on that portal but attributes it to media reports.</p>
+        <h3>Authored articles:</h3>
+        <p>The India Daily does publish authored articles on its site but does not take responsibility for facts or opinions mentioned in the same. However, as per the format followed for all such articles the Short Summary of the article mentions the it is a Guest Column. Also, at the bottom of the story we carry a disclaimer saying: The views expressed here are solely those of the authors and do not in any way represent the views of TheIndiaDaily.com
+        The disclaimer is also prominently displayed in bold and italics font.</p>
+        <h3>Unverified data on other sites:</h3>
+        <p>We do not rely on information provided on other news portals in case the same has not been verified or attributed. If The India Daily finds the information relevant, it carries out independent investigations to verify the same.</p>
+        <h3>Advertorials:</h3>
+        <p>The India Daily does publish advertorials on its site. In case of such articles being carried in the Newsletter, we have a system in place to properly tag the same as ‘Marketing Initiative’.<br>
+        Similarly, when the advertorial is just carried on the site it is published under the specific categories like ‘Brand Talk’ or ‘Marketing’. These articles are edited to comply to The India Daily editorial stylebook but the content is not rewritten or deleted without prior intimation or approval. </p>
+        <p>In some cases, the article preview is also shared with the clients for approval. All the content, including pictures, used are also provided by the client.</p>
+        `]
+      },
+      "editorialPage" : {
+        "id": 8,
+        "title": "About Editorial Policy",
+        "paragraphs":[`
+        <p><b>ABOUT THE WEBSITE:</b> The aim of this document is to list out the editorial policies that guide all journalists working for theindiadaily.com and do not relate in any manner whatsoever to the editorial policies and standards of any news channel operating under the Veecon Media and Broadcasting Pvt Ltd. The document is a compilation of best practices and classification of content pieces that needs to be followed to uphold high standards of ethical journalism. </p>
+        <ol>
+        <li>THE THREE PILLARS</li>
+        <li> TRANSPARENCY/CREDIBILITY/TRUSTWORTHINESS</li>
+        <li> RULES OF PRACTICE</li>
+        </ol>
+        <p>Accuracy: Authors and editors must confirm that content on the website is well-sourced and checked by reporters and/or copy editors for truthfulness and timeliness. </p>
+        <p>Credibility: Articles should mention those who have worked on it: writer/reporter/contributor and editor.
+        Credit: Writers/authors must not reproduce content from other sources without due attribution, wherever applicable.
+        Bylines: An article is qualified to be by-lined only when the writer/journalist has worked substantially on the copy. Inputs from other sources should be acknowledged. </p>
+        <p>Impartiality: Balanced news coverage sans bias should be the operating principle.
+        Endorsements: Authors/writers must not endorse or promote through text, videos, or photographs any person or entity unless it is based on editor’s judgement on the value of the information to the user. </p>
+        <h3>OPERATING PRINCIPLES </h3>
+        <p>Accuracy over speed: We might be a minute late, but ensure we are accurate.</p>
+        <p>We acknowledge when we err: Inadvertent mistakes are promptly corrected and a footnote scripts amendment to the content, unless the alteration made is of the nature of spelling change, typo etc. </p>
+        <h3>CONTENT IS SACROSANCT</h3>
+        <p>Content produced by us remains a part of a permanent digital archive on the web accessible to all. Content is not unpublished unless in exceptional circumstances where the existence of the content entails: </p>
+        <ol>
+        <li>threat to national security </li>
+        <li>threat to safety of an individual/entity </li>
+        <li>violation of legal norms </li>
+        <li>breach of editorial guidelines </li>
+        <li>uncorrectable errors that absolutely warrant removal</li>
+        </ol>
+        <h3>TYPES OF WORK </h3>
+        <p>News piece: Based on facts, verified by reporters/editors.
+        </p><p>Analysis: By domain experts. </p>
+        <p>Explainer: Break-down of complex issues into riveting and palatable content. </p>
+        <p>Listicle: For a quick read while on the go. </p>
+        <p>Opinion: POVs from scholars, industry leaders, public figures, in-house experts. </p>
+        <p>Exclusive: Coveted interviews/information that needs going beyond the mandate.</p>
+        <p>Review: Critiques of events, arts, shows, movies, or books. </p>
+        <p>Video: Stand-alone video content as well as value-addition to textual stories. </p>
+        <p>Column: By experienced journalists and industry experts </p>
+        <p>Fact Check: Debunking fake news and viral stories that need verification. </p>
+        <p>Photo Gallery: Some stories are better told in pictures. </p>
+        <p>Live Blog: Developing news updates on elections, speeches, Parliament sessions, cricket matches, Oscars and other big-ticket events.</p>
+        `]
+      },
+      "advertisingPage" : {
+        "id": 9,
+        "title": "Advertising With US",
+        "paragraphs":[`
+        <h3>Digital and TV advertising and solutions </h3>
+        <p>We offer a wide variety of advertising and digital solutions to communicate your message to your audience.</p>
+        <h3>For inquiries, please contact</h3>
+        <ul style="list-style-type: none;padding:10px 20px; background-color: #f5f5f5; border: 1px solid #d3d3d3; width: 100%;">
+        <h6>National</h6>
+        <li><strong>Name:</strong> Jitender Kumar</li>
+        <li><strong>Mob:</strong> +91 98715 71364</li>
+        <li><strong>Email:</strong> jitender.kumar@theindiadaily.com</li>
+        </ul>
+        <ul style="list-style-type: none;padding:10px 20px; background-color: #f5f5f5; border: 1px solid #d3d3d3; width: 100%;">
+        <h6>North &amp; East</h6>
+        <li><strong>Name:</strong> Deepak Tiwari</li>
+        <li><strong>Mob:</strong> +91 99531 90993</li>
+        <li><strong>Email:</strong> deepak.tiwari@theindiadaily.com</li>
+        </ul>
+        <ul style="list-style-type: none;padding:10px 20px; background-color: #f5f5f5; border: 1px solid #d3d3d3; width: 100%;">
+        <h6>West</h6>
+        <li><strong>Name:</strong> Ratnesh Shukla</li>
+        <li><strong>Mob:</strong> +91 98202 19373</li>
+        <li><strong>Email:</strong> ratnesh.shukla@theindiadaily.com</li>
+        <li><strong>Name:</strong> Hiren Mehta</li>
+        <li><strong>Mob:</strong> +91 98202 18022</li>
+        <li><strong>Email:</strong> hiren.mehta@theindiadaily.com</li>
+        </ul>
+        <ul style="list-style-type: none;padding:10px 20px; background-color: #f5f5f5; border: 1px solid #d3d3d3; width: 100%;">
+        <h6>South</h6>
+        <li><strong>Name:</strong> Naveen K S</li>
+        <li><strong>Mob:</strong> +91 98867 22286</li>
+        <li><strong>Email:</strong> naveen.ks@theindiadaily.com</li>
+        </ul>
+        <h5>adsales@theindiadaily.com</h5>
+        <p><b>The India Daily In-house Content Studio:</b> Branded Content Solutions is where our expertise lies, we apply the highest standards of quality to the content we create for brands. With that thought aligned with world class storytelling, we create branded content that our readers love. Our work is narrative driven and engaging. We not only know how to create dynamic, effective advertising for your business, we know exactly how to place it so that it reaches your target audience at the right times for the lowest cost and optimum profit potential.</p>
+        <h3>Advertising Objective</h3>
+        <p>To reach the right people in right time we are inviting you in our network, as our focus is to provide targeted brand visibility and promotion. Reach your audience where they’re most engaged. Boost your brand awareness, drive conversions, or promote content with personalized messages delivered to prospects. Promote your brand to targeted audiences and drive awareness and leads in the most viewed professional news feed. We offer a wide variety of advertising and digital solutions to highlight your message to the right audience at the right time.</p>
+        <h3>What you can buy | Our advertising offerings/products/solutions </h3>
+        <p><b>Branded Content:</b> We create narrative driven, thought provoking, engaging and persuasive content, which our readers love and your consumers need which sits prominently on all our channels. </p>
+        <p><b>Native Articles:</b> A combination of editorial expertise and research, our simple to comprehend textual content makes for a powerful narrative which resonates well with our readers and delivers on brand KPIs. </p>
+        <p><b>Video Stories:</b> Visual finesse added to the stories brought out through branded content excellence culminates into video solutions offered by our in-house studio. Our videos make users experience the branded stories in a language and manner they understand.</p>
+        <p><b>Display Innovations:</b> Stunning impactful visual renditions of display ads created as per client briefs and expectations by our design studio. These innovative display ads serve the purpose of creating impact according to each brief we work on. We take a fewer, better approach to display advertising, seamlessly integrating ads into the reader experience and allowing advertisers to achieve their brand building objectives.</p>
+        <p><b>Sponsored Content:</b> We offer advertisers the opportunity to maximise their partnerships with The India Daily through ownership of key content which aligns both brands.</p>
+        <h3>Why advertise with The India Daily</h3>
+        <p>We build inclusive, progressive brands. We know the pulse and heart of the audience and we tell a compelling brand story that your audience will connect with. The honest values we have held since our founding are just as relevant today, they’re modern. We recognize that brands can scale anywhere, but we offer something much harder to capture: our reach comes with attention, affinity, and trust. </p>
+        <p>When you think about the vast range of subjects and interests that The India Daily covers, it means we have an accurate understanding of how our readers behave and what they are actually into. The India Daily has been in the news publishing business since a decade now and a culture of ethical reporting, storytelling and service to our communities has created countless milestone moments in this journey so far.</p>
+        <p>With awareness and evolving approach The India Daily continues to grow, and adapt to change. The strength of The India Daily lies in consistent and crisp reporting, editorial coverage, with a clear focus on variety on not only local issues of our Hindi heartland, but also on issues of State, as well as National and International interest.</p>
+        `]
+      },
+  };
+  

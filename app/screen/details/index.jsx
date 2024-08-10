@@ -1,66 +1,81 @@
-import React, { useState, useEffect } from 'react';
-import { Text, FlatList, View } from "react-native";
-const Details = () => {
-    const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(true);
-  
-    useEffect(() => {
-      const fetchData = async () => {
-        const apiUrl = 'https://fakestoreapi.com/products';
-        const params = {
-            limit: 10, 
-            pagetype:'listing',
-            language: 0,
-            pageslug: 1
-        };
-  
-        const queryString = new URLSearchParams(params).toString();
-        const urlWithParams = `${apiUrl}?${queryString}`;
-        //console.log(urlWithParams);
-        try {
-          const response = await fetch(urlWithParams, {
-            method: 'GET',
-            headers: {
-                'api_key': 'indianews@#123',
-                'api_name': 'X-API-KEY',
-                'http_user': 'indianews',
-                'http_pass': 'indianews@#123',
-                'http_auth': 'basic',
-            },
-          });
-          const result = await response.json();
-          console.log('API Response:', result);
-          setData(result);
-          setLoading(false);
-        } catch (error) {
-          console.error(error);
-          setLoading(false);
-        }
-      };
-  
-      fetchData();
-    }, []);
-  console.log(data);
-    if (loading) {
-      return (
-        <View>
-          <Text>Loading...</Text>
-        </View>
-      );
+// screens/Details.js
+import React, { useEffect, useState } from 'react';
+import { View, Text, StyleSheet, ActivityIndicator, TouchableOpacity } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
+import ScreenWithFooter from '../ScreenWithFooter';
+
+const Details = ({ route }) => {
+  const { id } = route.params;
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const navigation = useNavigation();
+
+  useEffect(() => {
+    fetchDetails();
+  }, [id]);
+
+  const fetchDetails = async () => {
+    try {
+      const response = await fetch(`https://fakestoreapi.com/products/${id}`);
+      const result = await response.json();
+      setData(result);
+      setLoading(false);
+    } catch (error) {
+      console.error(error);
+      setLoading(false);
     }
-    return(
-        <View>
-            <Text>About Screen</Text>
-            <FlatList
-                data={data}
-                keyExtractor={(item) => item.id.toString()}
-                renderItem={({ item }) => (
-                <View>
-                    <Text>{item.title}</Text>
-                </View>
-                )}
-            />
-        </View>
+  };
+
+  if (loading) {
+    return (
+      <View style={styles.container}>
+        <ActivityIndicator size="large" color="#0000ff" />
+      </View>
     );
+  }
+
+  if (!data) {
+    return (
+      <View style={styles.container}>
+        <Text style={styles.errorText}>Failed to load details.</Text>
+      </View>
+    );
+  }
+
+  const goBack = () => {
+    navigation.goBack();
+  };
+
+  return (
+    <ScreenWithFooter>
+      <View style={styles.container}>
+        <TouchableOpacity onPress={goBack}>
+            <Text>Previous</Text>
+        </TouchableOpacity>
+        <Text style={styles.title}>{data.title}</Text>
+        <Text style={styles.description}>{data.description}</Text>
+      </View>
+    </ScreenWithFooter>
+  );
 };
-export default Details
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    padding: 16,
+  },
+  title: {
+    fontSize: 24,
+    fontWeight: 'bold',
+  },
+  description: {
+    fontSize: 16,
+    marginTop: 8,
+  },
+  errorText: {
+    fontSize: 18,
+    color: 'red',
+  },
+});
+
+export default Details;

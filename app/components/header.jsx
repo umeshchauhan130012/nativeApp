@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Icon from 'react-native-vector-icons/Ionicons';
-import { View, Text, TouchableOpacity, Modal, StyleSheet, Image, ScrollView, Button } from 'react-native';
+import { View, Text, TouchableOpacity, Modal, StyleSheet, Image, ScrollView } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 
 export default function Header() {
@@ -92,28 +92,36 @@ export default function Header() {
           <Modal transparent={true} animationType="slide" visible={isMenuVisible} onRequestClose={toggleMenu}>
             <View style={styles.menuWrapper}>
               <TouchableOpacity onPress={toggleMenu}>
-                <View style={styles.menuButton}><Text style={styles.menuButtontext}>Close</Text><Icon style={styles.menuButtonClose} name="close" size={28} color="#000000" /></View>
+                <View style={styles.menuButton}><Icon style={styles.menuButtonClose} name="close" size={28} color="#000000" /></View>
               </TouchableOpacity>
               <View style={styles.menuitemContain}>
-                <Button title="Go to Details" onPress={() => navigation.navigate('Details')} />
-                <Text style={styles.menuItem} >देश</Text>
-                <Text style={styles.menuItem}>बजट 2024</Text> 
-                <Text style={styles.menuItem}>UP</Text>
-                <Text style={styles.menuItem}>बिहार</Text>
-                <Text style={styles.menuItem}>मनोरंजन</Text>
-                <Text style={styles.menuItem}>धर्म</Text>
-                <Text style={styles.menuItem}>लाइफस्टाइल</Text>
-                <Text style={styles.menuItem}>खेल</Text>
-                <Text style={styles.menuItem}>जॉब्स</Text>
-                <Text style={styles.menuItem}>ऑटो</Text>
-                <Text style={styles.menuItem}>विदेश</Text>
-                <Text style={styles.menuItem}>यूटिलिटी</Text>
-                <Text style={styles.menuItem}>वायरल</Text>
-                <Text style={styles.menuItem}>वेब स्टोरीज</Text>
-                <Text style={styles.menuItem}>टेक</Text>
-                <Text style={styles.menuItem}>फोटो गैलरी</Text>
-                <Text style={styles.menuItem}>वीडियो</Text>
-                <Text style={styles.menuItem}>टॉपिक</Text>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('Categories'); toggleMenu(); }} ><Text style={styles.menuItemIn}>देश</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>बजट 2024</Text></TouchableOpacity> 
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>UP</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>बिहार</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>मनोरंजन</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>धर्म</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>लाइफस्टाइल</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>खेल</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>जॉब्स</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>ऑटो</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>विदेश</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>यूटिलिटी</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>वायरल</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>वेब स्टोरीज</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>टेक</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>फोटो गैलरी</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>वीडियो</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { toggleMenu(); }} ><Text style={styles.menuItemIn}>टॉपिक</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'aboutPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>About Us</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'privacyPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Privacy Policy</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'disclaimerPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Disclaimer</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'cookiesPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Cookies Policy</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'ethicsPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Ethics Policy & Mission</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'termsPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Terms of Service</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'verificationPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Verification & Fact Checking Policy</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'editorialPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Editorial Policy</Text></TouchableOpacity>
+                <TouchableOpacity style={styles.menuItem} onPress={() => { navigation.navigate('StaticPage',{ pageName: 'advertisingPage' }); toggleMenu(); }}><Text style={styles.menuItemIn}>Advertise with Us</Text></TouchableOpacity>
               </View>
             </View>
           </Modal>
@@ -264,22 +272,17 @@ const styles = StyleSheet.create({
   },
   menuItem: {
     width: '50%',
+  },
+  menuItemIn: {
     padding: 10,
-    fontSize: 20,
+    fontSize: 15,
     color: '#333333',
   },
   menuButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    padding: 10,
-  },
-  menuButtontext: {
-    fontSize: 20,
-    color: '#000000',
-    fontWeight: '700',
   },
   menuButtonClose: {
-    paddingLeft: 10,
     color: '#000000',
   },
 });

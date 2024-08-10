@@ -387,7 +387,7 @@ const renderScene = SceneMap({
   six: SixRoute,
 });
 
-export default function TabViewExample() {
+export default function TopTabView() {
 
   const [index, setIndex] = React.useState(0);
   const [routes] = React.useState([
@@ -398,7 +398,7 @@ export default function TabViewExample() {
     { key: 'five', title: 'lifestyle' },
     { key: 'six', title: 'sports' },
   ]);
-
+ 
   return (
     <>
     <TabView

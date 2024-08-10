@@ -1,45 +1,56 @@
-import React from 'react'
-import { View, Text, StyleSheet, ScrollView, Image, ImageBackground } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, Text, StyleSheet, ScrollView, ImageBackground, TouchableOpacity } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 
 export const TopNews = () => {
 
-const topNewsarray = [
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/zVsj8Rv/1rl.jpg",
-        "links": "/",
-    },
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/kQCdXMZ/2rl.jpg",
-        "links": "/",
-    },
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/Jxd3GMZ/3rl.jpg",
-        "links": "/",
-    },
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/yn1qtqZ/4rl.jpg",
-        "links": "/",
-    },
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/JjQTyDS/5rl.jpg",
-        "links": "/",
-    },
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/sPKh5yX/6rl.jpg",
-        "links": "/",
-    },
-    {
-        "title": "आखिर अपने ही देश में क्यों 'बेगाने' होते जा रहे हैं",
-        "image": "https://i.ibb.co/1nQKtWC/7rl.jpg",
-        "links": "/",
-    },
-    ];
+    const [data, setData] = useState([]);
+    const [loading, setLoading] = useState(true);
+  
+    useEffect(() => {
+      const fetchData = async () => {
+        const apiUrl = 'https://fakestoreapi.com/products';
+        const params = {
+            limit: 10, 
+            pagetype:'listing',
+            language: 0,
+            pageslug: 1
+        };
+  
+        const queryString = new URLSearchParams(params).toString();
+        const urlWithParams = `${apiUrl}?${queryString}`;
+        try {
+          const response = await fetch(urlWithParams, {
+            method: 'GET',
+            headers: {
+                'api_key': 'indianews@#123',
+                'api_name': 'X-API-KEY',
+                'http_user': 'indianews',
+                'http_pass': 'indianews@#123',
+                'http_auth': 'basic',
+            },
+          });
+          const result = await response.json();
+          setData(result);
+          setLoading(false);
+        } catch (error) {
+          console.error(error);
+          setLoading(false);
+        }
+      };
+      fetchData();
+    }, []);
+    if (loading) {
+      return (
+        <View>
+          <Text>Loading...</Text>
+        </View>
+      );
+    }
+    const navigation = useNavigation();
+    const handlePress = (id) => {
+      navigation.navigate('Details', { id });
+    };
     const TextWithLineClamp = ({ text, numberOfLines }) => {
         return (
             <Text numberOfLines={numberOfLines} style={styles.newsTitleReapeter} >
@@ -55,17 +66,13 @@ const topNewsarray = [
         </View>
         <View style={styles.newsSlideContain}>
             <ScrollView horizontal={true} showsVerticalScrollIndicator={false} showsHorizontalScrollIndicator={false}>
-                {topNewsarray.map((item, ind) => (
-                    <View key={ind} style={[styles.newsItemReapeter, ind === 0 && styles.firstItem, ind === topNewsarray.length - 1 && styles.lastItem]}>
-                        {/* <View style={styles.newsLoopImg}>
-                            <Image style={styles.newsRepeatItemImage}  source={{ uri: item.image}} />
-                            <Text style={styles.newsTitleReapeter}>{item.title}</Text> 
-                        </View> */}
-                        <View style={styles.newsLoopImg}>
+                {data.map((item, ind) => (
+                    <View key={ind} style={[styles.newsItemReapeter, ind === 0 && styles.firstItem, ind === data.length - 1 && styles.lastItem]}>
+                        <TouchableOpacity style={styles.newsLoopImg}  onPress={() => handlePress(item.id)}>
                             <ImageBackground source={{ uri: item.image}} style={styles.newsRepeatItemImage} imageStyle={{ borderRadius: 6}}>
                                 <TextWithLineClamp text={item.title} numberOfLines={2} />
                             </ImageBackground>
-                        </View>
+                        </TouchableOpacity>
                     </View> 
                     )
                 )}  
@@ -155,3 +162,4 @@ const styles = StyleSheet.create({
         paddingRight: 15,
     },
 }); 
+
